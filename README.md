@@ -12,7 +12,7 @@ To implement and demonstrate the **Overlap-Add method** in MATLAB for **efficien
 3️⃣ **Convolution of Segments** – Each segment is **linearly convolved** with the FIR filter.  
 4️⃣ **Overlap and Add** – The convolved segments are **overlapped and summed** to reconstruct the **output signal**.  
 
-## 🔢 MATLAB Implementation  
+##  MATLAB Implementation  
 The repository includes a **MATLAB script** that:  
 1 Takes user input for **input sequence, filter, and segment length**.  
 2 Performs **segmentation, zero-padding, and convolution**.  
